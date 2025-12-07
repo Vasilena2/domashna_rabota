@@ -169,6 +169,7 @@ Books currently on loan:
 ## Екранна снимка
 
 <img width="1401" height="228" alt="image" src="https://github.com/user-attachments/assets/a391c19f-b3f5-456a-846c-2f149305297d" />
+
 ---
 
 ## Автор
@@ -177,5 +178,6 @@ Books currently on loan:
 **Номер:** _22305_  
 **Курс:** Обектно-ориентирано програмиране (C++)  
 **Дата:** _07/12/2025_
+
 
 
